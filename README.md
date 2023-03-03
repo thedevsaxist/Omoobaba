@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHRlY2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
+  <img width="2000" height="300" src="https://github.com/ritik307/ritik307/blob/main/images/header_.png">
 </p>
 
 Hello😊, my name is Chidiebube but you can all me Omooba. I'm a mobile app developer 📱, currently into cross-platform development with Flutter 🐤 but I hope to specialize in iOS development full-time 🍏. I write Python for fun 🐍 and I'm a big time tech entusiast.
